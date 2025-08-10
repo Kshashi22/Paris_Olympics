@@ -58,5 +58,4 @@ The entire **data cleaning, exploration, and visualization** process was perform
 * **Emerging Nations:** New countries emerged with surprise medal wins.
 
 
-If you want, I can now **create an enhanced README with real medal tallies and top-performing countries extracted from your actual Paris Olympics dataset** so it looks more authentic and attractive on GitHub.
-Do you want me to prepare that version?
+
